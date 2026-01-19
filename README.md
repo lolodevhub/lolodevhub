@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mí
 
-Soy **programador de bots de Discord y scripts para FiveM**, enfocado en crear sistemas automáticos, seguros y fáciles de mantener para comunidades RP.
+Soy **programador junior de bots de Discord y scripts para FiveM**, enfocado en crear sistemas automáticos, seguros y fáciles de mantener para comunidades RP.
 
 Combino experiencia en:
 
